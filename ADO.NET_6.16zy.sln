@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Deam", "ADO_Deam\ADO_Deam.csproj", "{2B26FD47-14BE-4997-83F9-928BDDEC06C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateAccess", "..\DateAccess\DateAccess.csproj", "{771A6360-349A-4C5C-A033-0B7D9F7AA2BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADO_Deam", "ADO_Deam\ADO_Deam.csproj", "{E68F859F-37D6-44B3-BF54-018072B3B9E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2B26FD47-14BE-4997-83F9-928BDDEC06C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2B26FD47-14BE-4997-83F9-928BDDEC06C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2B26FD47-14BE-4997-83F9-928BDDEC06C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2B26FD47-14BE-4997-83F9-928BDDEC06C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771A6360-349A-4C5C-A033-0B7D9F7AA2BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771A6360-349A-4C5C-A033-0B7D9F7AA2BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771A6360-349A-4C5C-A033-0B7D9F7AA2BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771A6360-349A-4C5C-A033-0B7D9F7AA2BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E68F859F-37D6-44B3-BF54-018072B3B9E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E68F859F-37D6-44B3-BF54-018072B3B9E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E68F859F-37D6-44B3-BF54-018072B3B9E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E68F859F-37D6-44B3-BF54-018072B3B9E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
